@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @vyleSubzer0;
-- 👀 I’m interested in : C and embedded programming;
+- 👀 I’m interested in : python, C, javascript;
+- 
 - 🌱 I’m currently learning : C
-- 💞️ I’m looking to collaborate on : anything C related
-- 📫 How to reach me : Ochieng.levy.vyle@gmail.com, +254742965722,
+- 💞️ I’m looking to collaborate on : anything python, C or javascript
+- 📫 How to reach me : Ochieng.levy.vyle@gmail.com, +254741965722,
 
 <!---
 vyleSubzer0/vyleSubzer0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
